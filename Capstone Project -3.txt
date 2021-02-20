@@ -1,0 +1,16 @@
+﻿Capstone Project -3 
+
+
+1.Conversational (Question and Answer)Chatbot:
+
+
+Chatbots have become extraordinarily popular in recent years largely due to technological advances.First and foremost, it is important to differentiate the various types of chatbots available in the market. From simple menu/button-based chatbots to conversational AI chatbots.Conversational Chatbots are by far the most advanced AI chatbots. They use Artificial Intelligence and Natural Language Processing in order to deliver the best experience possible to the user. For this Conversational  chatbot question and answers are taken from wikipedia.
+
+
+2.Restaurant Review Classification with NLTK:
+'Restaurant_Reviews.tsv'
+Our dataset will be a collection of 1000 reviews of a restaurant. We’ll use NLP to predict whether a review is positive or negative. 
+
+
+3.Twitter Sentiment Analysis:
+Twitter is a platform where most of the people express their feelings towards the current context. As humans, we can guess the sentiment of a sentence whether it is positive or negative.
